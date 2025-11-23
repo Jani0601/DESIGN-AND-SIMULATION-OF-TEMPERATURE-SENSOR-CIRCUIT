@@ -1,27 +1,32 @@
 # DESIGN-AND-SIMULATION-OF-TEMPERATURE-SENSOR-CIRCUIT
 # AIM
-![WhatsApp Image 2025-11-21 at 21 10 53_57b77cb7](https://github.com/user-attachments/assets/fb5b0120-7834-4c4c-b345-80252ceb6130)
+<img width="899" height="215" alt="image" src="https://github.com/user-attachments/assets/826720b4-d301-43b2-b08e-97ef99881e21" />
 
 # COMPONENT REQUIRED
-![WhatsApp Image 2025-11-21 at 21 11 22_1619e915](https://github.com/user-attachments/assets/7a79c273-1234-483e-ba97-e55a82c9d555)
+<img width="730" height="388" alt="image" src="https://github.com/user-attachments/assets/208a3b91-cd22-4355-a317-c4b4b123ecd5" />
+
 # SOFTWARE REQUIRED 
-![WhatsApp Image 2025-11-21 at 21 11 45_487591c6](https://github.com/user-attachments/assets/584d023b-dab9-49c4-91e4-fb309f16756d)
+<img width="878" height="118" alt="image" src="https://github.com/user-attachments/assets/ee6ff491-6fe1-4884-b4dd-040495e43aaa" />
+
 
 # THEORY
 
-![WhatsApp Image 2025-11-21 at 21 12 06_4921e7a2](https://github.com/user-attachments/assets/4d30a941-7bee-4e01-b0db-dc0930ae3829)
+<img width="972" height="507" alt="image" src="https://github.com/user-attachments/assets/cb1b42fc-4112-4773-974e-ae640f0525a7" />
 
 # PROCEDURE 
 
-![WhatsApp Image 2025-11-21 at 21 12 15_6d56f87c](https://github.com/user-attachments/assets/cd4600c6-8d7d-40ad-975e-cb652f825493)
+<img width="921" height="1372" alt="image" src="https://github.com/user-attachments/assets/c2aebcfb-7588-4d31-b780-a64b5ffdd7e9" />
+
 
 # CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-21 at 21 13 08_639ebcf6](https://github.com/user-attachments/assets/b76b059d-dcba-4a03-acae-002ac239ec23)
+<img width="865" height="900" alt="image" src="https://github.com/user-attachments/assets/602ea556-f484-4a19-bfd9-5be73a2c9689" />
+
 
 
 # RESULT
-![WhatsApp Image 2025-11-21 at 21 13 09_ae881650](https://github.com/user-attachments/assets/c6eca472-401f-4d11-91f7-21cda731318d)
+<img width="901" height="448" alt="image" src="https://github.com/user-attachments/assets/ca1fc0f5-dc18-4f8d-ac66-fb7dafc1501b" />
+
 
 
 
